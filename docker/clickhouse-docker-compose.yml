@@ -1,0 +1,13 @@
+version: '3'
+services:
+  clickhouse:
+    image: clickhouse/clickhouse-server
+    container_name: clickhouse
+    ports:
+      - "8123:8123"   # HTTP port for web UI
+      - "9000:9000"   # Native port for clickhouse-client
+    volumes:
+      - clickhouse_data:/var/lib/clickhouse
+
+volumes:
+  clickhouse_data:

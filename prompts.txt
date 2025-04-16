@@ -1,0 +1,49 @@
+
+-------------------------------
+Zeotap Assignment - Prompts Log
+-------------------------------
+
+Prompt 1:
+I’m working on Zeotap Assignment 2 – Bidirectional ClickHouse & Flat File Ingestion Tool. Please help me build this step-by-step using FastAPI and React. I want to skip optional tasks and focus on core requirements.
+
+Prompt 2:
+Help me connect FastAPI to a ClickHouse Docker container using clickhouse-connect and verify the connection with an endpoint.
+
+Prompt 3:
+How do I list all tables in ClickHouse using FastAPI?
+
+Prompt 4:
+How to get column names from a given ClickHouse table and return them as a JSON response?
+
+Prompt 5:
+Guide me on how to export specific columns from ClickHouse to a CSV file using pandas.
+
+Prompt 6:
+Help me design a FastAPI endpoint to upload a CSV file and extract its column headers.
+
+Prompt 7:
+How to append rows from an uploaded CSV file to an existing product.csv file only if columns match?
+
+Prompt 8:
+I’m getting a `NameError: name 'csv' is not defined` — what’s causing it?
+
+Prompt 9:
+Can you give me the full corrected version of `main.py` with all working endpoints?
+
+Prompt 10:
+Create a simple but functional React page that allows:
+- Uploading a CSV file
+- Selecting columns from ClickHouse table
+- Triggering ingestion and showing success/error response
+
+Prompt 11:
+Make the React page more attractive with colors, spacing, and proper layout.
+
+Prompt 12:
+I’m struggling to understand how the backend is working from `main.py` onward. Please explain it step by step.
+
+Prompt 13:
+Help me add JWT token-based login for the FastAPI backend and connect it with the React frontend.
+
+Prompt 14:
+Generate a proper prompts.txt file showing all the major things I did in this assignment — make it feel like I really worked hard.
